@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoPreguntas</string>
+    <string name="boton_verdadero">Verdadero</string>
+    <string name="boton_vendadero">Verdadero</string>
+    <string name="boton_falso">Falso</string>
+    <string name="textview_pregunta">Los gatos bailan?</string>
+</resources>
